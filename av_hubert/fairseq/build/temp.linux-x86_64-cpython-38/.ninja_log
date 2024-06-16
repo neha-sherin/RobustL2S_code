@@ -1,0 +1,17 @@
+# ninja log v5
+2	195	1678689024	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/clib/libbleu/module.o	ba81104d6fe19915
+1	363	1678689024	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/clib/libbleu/libbleu.o	162aa950f19b3ed
+0	3490	1678689028	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/data_utils_fast.o	4f17abe3c20101a8
+0	3411	1678689032	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/token_block_utils_fast.o	5bddb63ecac46965
+50	25050	1678689057	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/clib/libbase/balanced_assignment.o	b2fba531e22304cf
+8	24756	1678689082	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/clib/libnat/edit_dist.o	1cd31769557af42a
+4	3122	1678799116	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/data_utils_fast.o	4f17abe3c20101a8
+3	3246	1678799119	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/token_block_utils_fast.o	5bddb63ecac46965
+4	3076	1678800769	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/data_utils_fast.o	4f17abe3c20101a8
+0	3205	1678800773	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/token_block_utils_fast.o	5bddb63ecac46965
+6	3143	1680617423	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/data_utils_fast.o	4f17abe3c20101a8
+2	3159	1680617427	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/token_block_utils_fast.o	5bddb63ecac46965
+4	3056	1680621904	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/data_utils_fast.o	4f17abe3c20101a8
+1	3164	1680621908	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/token_block_utils_fast.o	5bddb63ecac46965
+5	3093	1680622338	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/data_utils_fast.o	4f17abe3c20101a8
+1	3126	1680622341	/home2/neha.sherin/av_hubert/fairseq/build/temp.linux-x86_64-cpython-38/fairseq/data/token_block_utils_fast.o	5bddb63ecac46965
