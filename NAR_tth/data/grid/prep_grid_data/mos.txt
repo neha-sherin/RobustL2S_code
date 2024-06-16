@@ -1,0 +1,12 @@
+trainval/s1/bbas3a
+trainval/s1/pgwl1s
+trainval/s1/swwi8n
+trainval/s4/bbir6a
+trainval/s4/pgad6s
+trainval/s4/swbb9p
+trainval/s2/bbil4a
+trainval/s2/lgwaza
+trainval/s2/pwaj5n
+trainval/s29/bgak6n
+trainval/s29/lrbv1s
+trainval/s29/pgin7a
